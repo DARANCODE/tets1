@@ -13,8 +13,8 @@ const CONFIG = {
     question: 'Trên thế giới hơn 7 tỉ người mà sao cậu lại yêu mình <3',
     btnReply: 'Gửi cho cậu <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
-    messDesc: 'Yêu mình rùi  mai rủ mình đi căn tin  đi :33:',
+    mess: 'Tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
+    messDesc: 'Yêu  tớ rùi  mai rủ tớ đi căn tin đi :33',
     btnAccept: 'Okii lunn :3',
     
     messLink: 'https://www.facebook.com/daran06' //link mess của các bạn. VD: https://www.facebook.com/messages/t/1000000000004188333536
